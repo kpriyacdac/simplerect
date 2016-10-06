@@ -4,6 +4,10 @@
   "version": "0.1.1",
   "description": "simplerect",
   "main": "simplerect",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kpriyacdac/simplerect"
+  },
   "dependencies": {},
   "engines": {
       "node": "*"
